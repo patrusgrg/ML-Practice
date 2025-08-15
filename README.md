@@ -229,4 +229,3 @@ Project Link: [https://github.com/yourusername/sepsis-prediction](https://github
 
 ---
 
-**⭐ Star this repository if you found it helpful!**
